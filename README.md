@@ -80,9 +80,9 @@
  
 
  
-### <h1 align="center"> 📄Commands </h1>
+# 📄Commands
 
-# 👑admins
+### 👑admins
 |   command   |                        description                        |         example                       |
 | ----------- | --------------------------------------------------------- | ------------------------------------- |
 | `!hpset`    | set player H point.                                       | !hpset `<player_name>` `<amount>`     |
@@ -110,7 +110,7 @@
 
 
  
-# 🧑humans
+### 🧑humans
 |   command   |                description & cost H point                 |
 | ----------- | --------------------------------------------------------- |
 | `!ghp`      | give H point to player. (!ghp `<player_name>` `<amount>`) |
@@ -142,7 +142,7 @@
 
 
  
-# 🧟zombies
+### 🧟zombies
 |   command   |                description & cost Z point                 |
 | ----------- | --------------------------------------------------------- |
 | `!ghp`      | give H point to player. (!ghp `<player_name>` `<amount>`) |
