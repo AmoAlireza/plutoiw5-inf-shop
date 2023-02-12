@@ -106,7 +106,7 @@
 | `!god`      | god mode.                                                 | !god                                  |
 | `!air`      | custom killstreak.                                        | !air                                  |
 | `!nm`       | map rotate.                                               | !nm                                   |
-| `!tpg`      | teleport gun(teleport you in where you shot.              | !tpg                                  |
+| `!tpg`      | teleport gun(teleport you in where you shot).             | !tpg                                  |
 
 
  
