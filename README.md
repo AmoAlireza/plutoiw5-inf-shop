@@ -1,6 +1,6 @@
-### <h1 align="center"> [IW5(MW3)](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3) INFECTED shop for [plutonium](https://plutonium.pw) </h1>
+### <h1 align="center"> [IW5(MW3)](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3) INFECTED shop for [plutonium](https://forum.plutonium.pw/topic/28282/release-infected-shop) </h1>
 
-<em><h5 align="center">(Programming Language - GSC)</h5></em>
+<em><h5 align="center">(Programming Language = GSC) </h5></em>
 
 # ⚙️installation
 - Create 2 folder with names `scripts` and `plugins` inside `%LocalAppData%\Plutonium\storage\iw5`.
